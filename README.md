@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Angular and React
+- 🌱 I’m currently learning Angular and React
 
 <!--
 **evalanjama/evalanjama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
